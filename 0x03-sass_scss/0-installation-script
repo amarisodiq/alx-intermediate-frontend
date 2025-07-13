@@ -1,0 +1,18 @@
+1. Installed NVM to manage Node versions:
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+2. Closed and reopened the terminal, then installed Node version 20.16.0:
+   nvm install 20.16.0
+   nvm use 20.16.0
+
+3. Installed SASS using npm:
+   npm install sass
+1. Installed NVM to manage Node versions:
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+2. Closed and reopened the terminal, then installed Node version 20.16.0:
+   nvm install 20.16.0
+   nvm use 20.16.0
+
+3. Installed SASS using npm:
+   npm install sass
